@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <title>Agronegócio e Poder - Background Pattern</title>
+  <defs>
+    <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="patternGradient">
+      <stop stop-color="#1A4D2E" offset="0%"></stop>
+      <stop stop-color="#2F6F44" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Background" fill="none" fill-rule="evenodd" opacity="0.15">
+    <rect fill="url(#patternGradient)" x="0" y="0" width="400" height="400"></rect>
+    
+    <!-- Agricultural Pattern Elements -->
+    <!-- Wheat -->
+    <g id="wheat-1" transform="translate(50, 50)" stroke="#FFFFFF" stroke-width="1.5">
+      <path d="M0,0 C3,10 6,20 0,30 M0,0 C-3,10 -6,20 0,30 M0,5 C2,12 4,20 0,30 M0,5 C-2,12 -4,20 0,30 M0,30 L0,60"></path>
+    </g>
+    <g id="wheat-2" transform="translate(150, 150)" stroke="#FFFFFF" stroke-width="1.5">
+      <path d="M0,0 C3,10 6,20 0,30 M0,0 C-3,10 -6,20 0,30 M0,5 C2,12 4,20 0,30 M0,5 C-2,12 -4,20 0,30 M0,30 L0,60"></path>
+    </g>
+    <g id="wheat-3" transform="translate(250, 250)" stroke="#FFFFFF" stroke-width="1.5">
+      <path d="M0,0 C3,10 6,20 0,30 M0,0 C-3,10 -6,20 0,30 M0,5 C2,12 4,20 0,30 M0,5 C-2,12 -4,20 0,30 M0,30 L0,60"></path>
+    </g>
+    <g id="wheat-4" transform="translate(350, 350)" stroke="#FFFFFF" stroke-width="1.5">
+      <path d="M0,0 C3,10 6,20 0,30 M0,0 C-3,10 -6,20 0,30 M0,5 C2,12 4,20 0,30 M0,5 C-2,12 -4,20 0,30 M0,30 L0,60"></path>
+    </g>
+    
+    <!-- Leaves Pattern -->
+    <g id="leaf-1" transform="translate(100, 100)" stroke="#FFFFFF" stroke-width="1.5">
+      <path d="M0,0 C10,10 20,10 20,0 C20,-10 10,-10 0,0 Z M0,0 L15,15"></path>
+    </g>
+    <g id="leaf-2" transform="translate(200, 200)" stroke="#FFFFFF" stroke-width="1.5">
+      <path d="M0,0 C10,10 20,10 20,0 C20,-10 10,-10 0,0 Z M0,0 L15,15"></path>
+    </g>
+    <g id="leaf-3" transform="translate(300, 300)" stroke="#FFFFFF" stroke-width="1.5">
+      <path d="M0,0 C10,10 20,10 20,0 C20,-10 10,-10 0,0 Z M0,0 L15,15"></path>
+    </g>
+    
+    <!-- Tractor Icons -->
+    <g id="tractor-1" transform="translate(200, 100)" fill="#FFFFFF">
+      <path d="M15,0 L25,0 L25,5 L30,5 L30,15 L25,15 L25,10 L15,10 L15,15 L5,15 C5,10 0,10 0,15 L-5,15 L-5,5 L5,5 L5,0 L15,0 Z"></path>
+    </g>
+    <g id="tractor-2" transform="translate(100, 300)" fill="#FFFFFF">
+      <path d="M15,0 L25,0 L25,5 L30,5 L30,15 L25,15 L25,10 L15,10 L15,15 L5,15 C5,10 0,10 0,15 L-5,15 L-5,5 L5,5 L5,0 L15,0 Z"></path>
+    </g>
+    
+    <!-- Dot Pattern -->
+    <g id="dots" fill="#FFFFFF">
+      <circle cx="50" cy="200" r="3"></circle>
+      <circle cx="75" cy="225" r="3"></circle>
+      <circle cx="100" cy="250" r="3"></circle>
+      <circle cx="125" cy="275" r="3"></circle>
+      
+      <circle cx="250" cy="50" r="3"></circle>
+      <circle cx="275" cy="75" r="3"></circle>
+      <circle cx="300" cy="100" r="3"></circle>
+      <circle cx="325" cy="125" r="3"></circle>
+      
+      <circle cx="375" cy="200" r="3"></circle>
+      <circle cx="350" cy="225" r="3"></circle>
+      <circle cx="325" cy="250" r="3"></circle>
+      <circle cx="300" cy="275" r="3"></circle>
+    </g>
+  </g>
+</svg>

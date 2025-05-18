@@ -1,0 +1,29 @@
+Desenvolva um jogo interativo chamado **'Agronegócio e Poder – O Jogo da Hegemonia'**, onde o jogador explora como o agronegócio se consolidou no Brasil, indo além das relações de produção econômica para influenciar políticas, sociedade e cultura.  
+
+O jogo deve ter um sistema de **decisões estratégicas** no qual o jogador pode escolher entre diferentes papéis:  
+🔹 **Grande produtor rural (agronegócio)** – expande monoculturas e maximiza lucro.  
+🔹 **Agricultor familiar** – busca alternativas sustentáveis e resistência ao modelo industrial.  
+🔹 **Político ou legislador** – define políticas públicas e incentivos ao setor.  
+🔹 **Líder sindical ou ativista rural** – luta por direitos agrários e reforma fundiária.  
+
+### **🏆 Estrutura do Jogo**
+1️⃣ **Introdução** – Contexto histórico sobre a Revolução Verde e o desenvolvimento do agronegócio.  
+2️⃣ **Personagens e Escolhas** – O jogador define seu papel e recebe desafios específicos.  
+3️⃣ **Decisões Estratégicas** – Dilemas sobre política agrícola, expansão territorial, impacto ambiental e economia.  
+4️⃣ **Conflitos e Consequências** – As escolhas afetam o equilíbrio de poder entre agronegócio e resistência rural.  
+5️⃣ **Finalização e Reflexão** – Diferentes cenários finais que mostram os impactos das decisões.  
+
+### **🎨 Interface e Design**
+✅ **HTML** para estruturar as páginas.  
+✅ **CSS** para estilizar, com botões interativos e animações suaves.  
+✅ **JavaScript** para lógica condicional e mecânicas interativas.  
+✅ **Gráficos ou mapas** simples para representar territórios agrícolas.  
+
+### **⚙️ Mecânicas Extras**
+🔸 **Sistema de Influência** – cada decisão altera popularidade e poder político.  
+🔸 **Barra de Recursos Econômicos** – varia conforme modelo agrícola escolhido.  
+🔸 **Diálogos e Desafios** – interações com NPCs (personagens não jogáveis) influenciam a narrativa.  
+
+O jogo deve ser **didático, envolvente e acessível**, permitindo que os jogadores compreendam a **hegemonia do agronegócio e seus impactos sociais, econômicos e ambientais**. Adicione **efeitos visuais envolventes**, transições suaves e um sistema de pontuação baseado nas decisões do jogador.  
+
+Caso possível, insira **elementos históricos**, como dados reais do **Censo Agropecuário do IBGE** e debates sobre **agricultura familiar vs agronegócio industrial**.
